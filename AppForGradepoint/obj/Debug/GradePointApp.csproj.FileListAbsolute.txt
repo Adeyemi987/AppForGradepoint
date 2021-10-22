@@ -1,0 +1,4 @@
+C:\Users\hp\source\repos\AppForGradepoint\AppForGradepoint\obj\Debug\GradePointApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AppForGradepoint\AppForGradepoint\obj\Debug\GradePointApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AppForGradepoint\AppForGradepoint\obj\Debug\AppForGradepoint.exe
+C:\Users\hp\source\repos\AppForGradepoint\AppForGradepoint\obj\Debug\AppForGradepoint.pdb
